@@ -1,0 +1,5 @@
+# Original full-size downloads; the site uses the resized copies in images/p
+images/raw/
+urls.txt
+.claude/
+.DS_Store
